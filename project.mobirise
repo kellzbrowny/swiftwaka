@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "swiftwaka",
-    "currentPage": "Home.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -120,7 +120,7 @@
               "src": "@PROJECT_PATH@/assets/images/swift-2-416x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "Home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SEND ERRAND</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://wa.me/+2348102821515\">SEND ERRAND</a></li>"
         },
         {
           "_tags": [
@@ -431,9 +431,8 @@
               "src": "@PROJECT_PATH@/assets/images/swift-2-416x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "Home.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -442,7 +441,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SEND ERRAND</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://wa.me/+2348102821515\">SEND ERRAND</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -811,7 +810,7 @@
               "src": "@PROJECT_PATH@/assets/images/swift-2-416x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "Home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -822,7 +821,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SEND ERRAND</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://wa.me/+2348102821515\">SEND ERRAND</a></li>"
         },
         {
           "_tags": [
@@ -933,7 +932,7 @@
           "title1": "Swift is our Bussines",
           "subtitle1": "",
           "caption1": "Our Service Solution is bassicaly design to offer speed at its meanest form, providing you the exact value you deserve.<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -948,7 +947,7 @@
           "title2": "Your Deliveries are Safe and Secure with us",
           "subtitle2": "",
           "caption2": "We have left no stone unturned with regards to the safety of value our solution provides.<br><br>with swiftwaka your Safety is banked<br><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -963,7 +962,7 @@
           "title3": "You can Afford Us",
           "subtitle3": "",
           "caption3": "We have the best plan for you,<br>our pricings are cost-friendly and economically tailored to serve you best<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1298,7 +1297,7 @@
               "src": "@PROJECT_PATH@/assets/images/swift-2-416x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "Home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1309,7 +1308,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SEND ERRAND</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Order.html\">ORDER DISPATCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\">CONTACTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://wa.me/+2348102821515\">SEND ERRAND</a></li>"
         },
         {
           "_styles": {
@@ -1367,7 +1366,7 @@
           "period1": "",
           "description1": "Our Office Drop delivery plan is an economically simplified pricing plan that allows us deliver you packages after we have recieved it at our office.<br><br><br><span style=\"font-size: 0.875rem; line-height: 1.79;\">&nbsp;</span><br>",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">12 Hour Max Delivery Time</li><li class=\"list-group-item\">2Kg Max</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://wa.me/+2348102821515\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "label2": "PLUS",
           "title2": "PICK UP",
           "subtitle2": "",
@@ -1376,7 +1375,7 @@
           "period2": "",
           "description2": "Pick-Up Delivery is an exclusive delivery plan that avails you that exquisit essence of our service from the comfort of your home or office&nbsp;<br>while our dispatch riders come to you to do the pickup/delivery.",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">12 Hour Max Delivery Time</li><li class=\"list-group-item\">2Kg Max</li><br></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://wa.me/+2348102821515\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "label3": "HOT!",
           "title3": "EXPRESS&nbsp;",
           "subtitle3": "",
@@ -1385,7 +1384,7 @@
           "period3": "",
           "description3": "Exprees(Pickup/Deliver) avails you the the value of an exclusive pickup/delivery service with &nbsp;speed at the most affordable rate&nbsp;<br> with a N100 cupon renewable on another order<br>",
           "list3": "<ul class=\"list-group list-group-flush\">2 Hour Max Delivery Time<br><li class=\"list-group-item\">2Kg Max</li><li class=\"list-group-item\">N100 &nbsp;Renewable Cupon</li><br></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://wa.me/+2348102821515\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "label4": "HOT!",
           "title4": "CORPRATE",
           "subtitle4": "",
