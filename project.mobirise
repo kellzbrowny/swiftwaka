@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "swiftwaka",
-    "currentPage": "CONTACT.html",
+    "currentPage": "Order.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -642,7 +642,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kellz-media-logo-128x930.png",
+              "src": "@PROJECT_PATH@/assets/images/kellz-media-logo-128x932.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1130,7 +1130,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kellz-media-logo-128x930.png",
+              "src": "@PROJECT_PATH@/assets/images/kellz-media-logo-128x932.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1298,8 +1298,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
